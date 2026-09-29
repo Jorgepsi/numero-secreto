@@ -1,5 +1,5 @@
 <h1>Jogo do número secreto</h1>
-
+**Aprendendo como utilizar o markdown para a criação de README.md**
 <h2>�� Sobre</h2>
 <p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
 
